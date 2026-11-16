@@ -39,6 +39,8 @@ This is a focused narrative review of five selected papers, not a systematic rev
 
 The full paper is openly available on Zenodo: https://zenodo.org/records/23562679
 
+DOI: 10.5281/zenodo.23562679
+
 ## Cite this paper
 
 Chavan, M. R., Bangar, A. P., Bhosale, S. B., & Karad, V. A. (2026). Limitations of Generative AI in Content Creation: A Review. International Journal of Scientific Research & Engineering Trends, 12(5).
